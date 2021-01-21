@@ -19,5 +19,3 @@ int main(){
 	showMatrix(B);
 	return 0;
 }
-
-// Write definition of inputMatrix(),matrixMultiply() and showMatrix() here
